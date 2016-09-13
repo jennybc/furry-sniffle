@@ -1,2 +1,4 @@
 # furry-sniffle
-A practice GitHub repo
+A GitHub repo
+
+I am a git goddess.
